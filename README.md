@@ -9,10 +9,10 @@ Welcome to the Internshala Coursework repository! This repository contains proje
 Below is a list of the Internshala courses I have completed along with the projects associated with each course. The status column indicates whether the project has been completed.
 
 | **Course**           | **Projects & Assigments**                                                                 | **Status**  |
-|----------------------|--------------------------------------------------------------------------------|-------------|
+|----------------------|-------------------------------------------------------------------------------------|----------------|
 | Data Science         | - [Project 1: Predictive Analytics](link-to-project) |  &#9744; |
 | Tableau              | - [Project 1: Sales Dashboard](link-to-project) | &#9744; |
-| Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ Project <br> ✅ Assignments |
+| Power BI             |  [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ Project <br> ✅ Assignments |
 | Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) | &#9744; |
 | Machine Learning     | - [Project 1: Image Classification](link-to-project) | &#9744; |
 | SAS                  | - [Project 1: Data Manipulation](link-to-project) | &#9744; |
