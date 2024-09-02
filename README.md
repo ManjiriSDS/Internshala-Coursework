@@ -10,7 +10,7 @@ Below is a list of the Internshala courses I have completed along with the proje
 
 | **Course**           | **Projects & Assigments**                                                                 | **Status** |
 |----------------------|-------------------------------------------------------------------------------------|----------------|
-| Data Science         | - [Project :Classification Problem](link-to-project) <br> - Assignment 1: Python Coding Challenge <br> - Assignment 2: Statistics Coding Challenge <br> - Assignment 3: Regression  |  &#9744; |
+| Data Science         | - [Project : Classification Problem](link-to-project) <br> - Assignment 1: Python Coding Challenge <br> - Assignment 2: Statistics Coding Challenge <br> - Assignment 3: Regression  |  &#9744; |
 | Tableau              | - | &#9744; |
 | Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ |
 | Excel                | - | &#9744; |
