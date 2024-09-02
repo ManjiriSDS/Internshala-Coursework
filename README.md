@@ -12,7 +12,7 @@ Below is a list of the Internshala courses I have completed along with the proje
 |----------------------|--------------------------------------------------------------------------------|-------------|
 | Data Science         | - [Project 1: Predictive Analytics](link-to-project) |  &#9744; Not Completed |
 | Tableau              | - [Project 1: Sales Dashboard](link-to-project) | &#9744; Not Completed |
-| Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions  | ✅ Project Completed <br> ✅ Assignments Completed |
+| Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ Project Completed <br> ✅ Assignments Completed |
 | Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) |&#9744; Not Completed |
 | Machine Learning     | - [Project 1: Image Classification](link-to-project) | &#9744; Not Completed |
 | SAS                  | - [Project 1: Data Manipulation](link-to-project) | &#9744; Not Completed |
