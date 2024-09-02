@@ -16,7 +16,7 @@ Below is a list of the Internshala courses I have completed along with the proje
 | Machine Learning     | - [Project : Customer Churn Prediction](link-to-project) | &#9744; |
 | SAS                  | - | &#9744; |
 | Deep Learning        | - | &#9744; |
-| R                    | **Code Challenges <br> 1. Logical Statement <br> 2. For Loop | &#9744; |
+| R                    | **Code Challenges** <br> 1. Logical Statement <br> 2. For Loop | &#9744; |
 
 ## 📁 Project Details
 
