@@ -2,6 +2,8 @@
 
 Welcome to the Internshala Coursework repository! This repository contains projects completed during various Internshala training courses. Each project reflects practical tasks and assignments that showcase the skills and knowledge acquired from these diverse training programs.
 
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 ## 📚 Courses and Projects
 
 Below is a list of the Internshala courses I have completed along with the projects associated with each course. The status column indicates whether the project has been completed.
@@ -10,7 +12,7 @@ Below is a list of the Internshala courses I have completed along with the proje
 |----------------------|--------------------------------------------------------------------------------|-------------|
 | Data Science         | - [Project 1: Predictive Analytics](link-to-project) |  &#9744; Not Completed |
 | Tableau              | - [Project 1: Sales Dashboard](link-to-project) | &#9744; Not Completed |
-| Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals  | ✅ Project Completed <br> ✅ Assignments Completed |
+| Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions  | ✅ Project Completed <br> ✅ Assignments Completed |
 | Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) |&#9744; Not Completed |
 | Machine Learning     | - [Project 1: Image Classification](link-to-project) | &#9744; Not Completed |
 | SAS                  | - [Project 1: Data Manipulation](link-to-project) | &#9744; Not Completed |
