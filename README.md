@@ -15,9 +15,9 @@ Below is a list of the Internshala courses I have completed along with the proje
 | Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ |
 | Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) | &#9744; |
 | Machine Learning     | - [Project 1: Image Classification](link-to-project) | &#9744; |
-| SAS                  | - [Project 1: Data Manipulation](link-to-project) | &#9744; |
-| Deep Learning        | - [Project 1: Neural Networks](link-to-project) | &#9744; |
-| R                    | - [Project 1: Statistical Analysis](link-to-project)| &#9744; |
+| SAS                  | - | &#9744; |
+| Deep Learning        | - | &#9744; |
+| R                    | - | &#9744; |
 
 ## 📁 Project Details
 
