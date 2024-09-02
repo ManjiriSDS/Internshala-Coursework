@@ -16,7 +16,7 @@ Below is a list of the Internshala courses I have completed along with the proje
 | Machine Learning     | - [Project : Customer Churn Prediction](link-to-project) | &#9744; |
 | SAS Programming      | - | &#9744; |
 | Deep Learning        | - | &#9744; |
-| R Programming        | **Code Challenges** <br> 1. Logical Statement <br> 2. For Loop  <br> 3. User defined Function <br> 4. Vectorized Code <br> 5. While and nested loop <br> 6. Data visualization in R <br> 7. histogram code challenge <br> 8. bar chart <br> 9. Graphical parameter <br> 10. Multiplot| &#9744; |
+| R Programming        | **Coding Challenges** <br> 1. Logical Statement <br> 2. For Loop  <br> 3. User defined Function <br> 4. Vectorized Code <br> 5. While and nested loop <br> 6. Data visualization in R <br> 7. histogram code challenge <br> 8. bar chart <br> 9. Graphical parameter <br> 10. Multiplot| &#9744; |
 
 ## 📁 Project Details
 
