@@ -8,14 +8,14 @@ Below is a list of the Internshala courses I have completed along with the proje
 
 | **Course**           | **Projects**                                                                 | **Status**  |
 |----------------------|--------------------------------------------------------------------------------|-------------|
-| Data Science         | - [Project 1: Predictive Analytics](link-to-project) <br> - [Project 2: Classification Model](link-to-project) | ✅ Completed |
-| Tableau              | - [Project 1: Sales Dashboard](link-to-project) <br> - [Project 2: Financial Analytics](link-to-project) | ✅ Completed |
+| Data Science         | - [Project 1: Predictive Analytics](link-to-project) <br> - [Project 2: Classification Model](link-to-project) |  &#9744; Not Completed |
+| Tableau              | - [Project 1: Sales Dashboard](link-to-project) <br> - [Project 2: Financial Analytics](link-to-project) | &#9744; Not Completed |
 | Power BI             | - [Project 1: KPI Dashboard](link-to-project) <br> - [Project 2: Sales Insights](link-to-project) | ✅ Completed |
-| Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) <br> - [Project 2: Financial Modeling](link-to-project) | ✅ Completed |
-| Machine Learning     | - [Project 1: Image Classification](link-to-project) <br> - [Project 2: Text Analysis](link-to-project) | ✅ Completed |
-| SAS                  | - [Project 1: Data Manipulation](link-to-project) <br> - [Project 2: Predictive Modeling](link-to-project) | ✅ Completed |
-| Deep Learning        | - [Project 1: Neural Networks](link-to-project) <br> - [Project 2: Deep Learning for NLP](link-to-project) | ✅ Completed |
-| R                    | - [Project 1: Statistical Analysis](link-to-project) <br> - [Project 2: Data Visualization](link-to-project) | ✅ Completed |
+| Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) <br> - [Project 2: Financial Modeling](link-to-project) |&#9744; Not Completed |
+| Machine Learning     | - [Project 1: Image Classification](link-to-project) <br> - [Project 2: Text Analysis](link-to-project) | &#9744; Not Completed |
+| SAS                  | - [Project 1: Data Manipulation](link-to-project) <br> - [Project 2: Predictive Modeling](link-to-project) | &#9744; Not Completed |
+| Deep Learning        | - [Project 1: Neural Networks](link-to-project) <br> - [Project 2: Deep Learning for NLP](link-to-project) | &#9744; Not Completed |
+| R                    | - [Project 1: Statistical Analysis](link-to-project) <br> - [Project 2: Data Visualization](link-to-project) | &#9744; Not Completed |
 
 ## 📁 Project Details
 
