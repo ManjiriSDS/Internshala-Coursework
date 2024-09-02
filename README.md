@@ -13,7 +13,7 @@ Below is a list of the Internshala courses I have completed along with the proje
 | Data Science         | - [Project : Classification Problem](link-to-project) <br> - Assignment 1: Python Coding Challenge <br> - Assignment 2: Statistics Coding Challenge <br> - Assignment 3: Regression  |  &#9744; |
 | Tableau              | - [Project : HR Data Analytics at Acme TelCo](link-to-project) | &#9744; |
 | Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ |
-| Machine Learning     | - [Project 1: Customer Churn Prediction](link-to-project) | &#9744; |
+| Machine Learning     | - [Project : Customer Churn Prediction](link-to-project) | &#9744; |
 | SAS                  | - | &#9744; |
 | Deep Learning        | - | &#9744; |
 | R                    | - | &#9744; |
