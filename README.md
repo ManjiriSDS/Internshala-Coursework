@@ -10,14 +10,14 @@ Below is a list of the Internshala courses I have completed along with the proje
 
 | **Course**           | **Projects & Assigments**                                                                 | **Status**  |
 |----------------------|--------------------------------------------------------------------------------|-------------|
-| Data Science         | - [Project 1: Predictive Analytics](link-to-project) |  &#9744; Not Completed |
-| Tableau              | - [Project 1: Sales Dashboard](link-to-project) | &#9744; Not Completed |
-| Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ Project Completed <br> ✅ Assignments Completed |
-| Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) |&#9744; Not Completed |
-| Machine Learning     | - [Project 1: Image Classification](link-to-project) | &#9744; Not Completed |
-| SAS                  | - [Project 1: Data Manipulation](link-to-project) | &#9744; Not Completed |
-| Deep Learning        | - [Project 1: Neural Networks](link-to-project) | &#9744; Not Completed |
-| R                    | - [Project 1: Statistical Analysis](link-to-project)| &#9744; Not Completed |
+| Data Science         | - [Project 1: Predictive Analytics](link-to-project) |  &#9744; |
+| Tableau              | - [Project 1: Sales Dashboard](link-to-project) | &#9744; |
+| Power BI             | - [Project : Sales Analysis Dashboard - Winfex Store Limited](https://github.com/ManjiriSDS/Internshala-Coursework/tree/main/Power%20BI)  <br> - Assignment 1: Use Basic Chart & Filtering Visuals <br> - Assignment 2: Advanced Charts and Objects <br> - Assignment 3: Dashboard and Power Query <br> - Assignment 4: Analysis Using Custom Columns, Conditional Columns and M functions | ✅ Project <br> ✅ Assignments |
+| Excel                | - [Project 1: Data Cleaning and Analysis](link-to-project) | &#9744; |
+| Machine Learning     | - [Project 1: Image Classification](link-to-project) | &#9744; |
+| SAS                  | - [Project 1: Data Manipulation](link-to-project) | &#9744; |
+| Deep Learning        | - [Project 1: Neural Networks](link-to-project) | &#9744; |
+| R                    | - [Project 1: Statistical Analysis](link-to-project)| &#9744; |
 
 ## 📁 Project Details
 
