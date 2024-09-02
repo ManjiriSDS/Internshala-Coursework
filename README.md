@@ -27,7 +27,7 @@ Each project is organized within its respective course folder. You can explore t
 
 - Data Science: Python, Pandas, NumPy
 - Tableau: Tableau Public, Tableau Desktop
-- Power BI: Power BI Desktop
+- Power BI: Power BI Desktop, Power Query
 - Excel: Microsoft Excel
 - Machine Learning: Scikit-Learn, TensorFlow
 - SAS: SAS Analytics
