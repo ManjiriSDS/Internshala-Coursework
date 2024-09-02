@@ -2,7 +2,7 @@
 
 Welcome to the Internshala Coursework repository! This repository contains projects completed during various Internshala training courses. Each project reflects practical tasks and assignments that showcase the skills and knowledge acquired from these diverse training programs.
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](internshala.png)
 
 ## 📚 Courses and Projects
 
