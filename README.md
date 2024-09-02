@@ -1,4 +1,4 @@
-<h1 align="left"> <img src= "https://github.com/ManjiriSDS/Internshala-Coursework/blob/fc03d92c8d9e78f7d301254f5ddecf84439f0902/unnamed.png" width="40px"> Internshala Coursework </h1> 
+<h1 align="left"> <img src= "https://github.com/ManjiriSDS/Internshala-Coursework/blob/fc03d92c8d9e78f7d301254f5ddecf84439f0902/unnamed.png" width="30px"> Internshala Coursework </h1> 
 
 Welcome to the Internshala Coursework repository! This repository contains projects completed during various Internshala training courses. Each project reflects practical tasks and assignments that showcase the skills and knowledge acquired from these diverse training programs.
 
