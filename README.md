@@ -6,7 +6,7 @@ Welcome to the Internshala Coursework repository! This repository contains proje
 
 Below is a list of the Internshala courses I have completed along with the projects associated with each course. The status column indicates whether the project has been completed.
 
-| **Course**           | **Projects**                                                                 | **Status**  |
+| **Course**           | **Projects & Assigments**                                                                 | **Status**  |
 |----------------------|--------------------------------------------------------------------------------|-------------|
 | Data Science         | - [Project 1: Predictive Analytics](link-to-project) |  &#9744; Not Completed |
 | Tableau              | - [Project 1: Sales Dashboard](link-to-project) | &#9744; Not Completed |
